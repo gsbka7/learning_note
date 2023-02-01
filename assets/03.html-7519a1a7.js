@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3e05a91c","path":"/notes/mongodb/03.html","title":"03 【 範例 】","lang":"zh-TW","frontmatter":{},"headers":[{"level":2,"title":"1. CRUD","slug":"_1-crud","link":"#_1-crud","children":[]},{"level":2,"title":"2. 條件查詢","slug":"_2-條件查詢","link":"#_2-條件查詢","children":[]}],"git":{},"filePathRelative":"notes/mongodb/03.md"}');export{e as data};

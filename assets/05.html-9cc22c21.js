@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-373246a0","path":"/notes/mongodb/05.html","title":"05 【 sort()與投影 】","lang":"zh-TW","frontmatter":{},"headers":[{"level":2,"title":"1. sort()","slug":"_1-sort","link":"#_1-sort","children":[]},{"level":2,"title":"2. 投影","slug":"_2-投影","link":"#_2-投影","children":[]}],"git":{},"filePathRelative":"notes/mongodb/05.md"}');export{t as data};
