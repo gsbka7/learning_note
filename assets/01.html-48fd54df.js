@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-bc8e2c22","path":"/notes/springboot/01.html","title":"01 【 介紹 】","lang":"zh-TW","frontmatter":{},"headers":[{"level":2,"title":"1. 特性","slug":"_1-特性","link":"#_1-特性","children":[]},{"level":2,"title":"2. 依賴引入","slug":"_2-依賴引入","link":"#_2-依賴引入","children":[]}],"git":{},"filePathRelative":"notes/springboot/01.md"}');export{e as data};

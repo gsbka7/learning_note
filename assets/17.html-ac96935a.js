@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-bb8316f6","path":"/notes/ES6/17.html","title":"17 【 解構賦值 】","lang":"zh-TW","frontmatter":{},"headers":[{"level":2,"title":"1. 陣列","slug":"_1-陣列","link":"#_1-陣列","children":[]},{"level":2,"title":"2. 物件","slug":"_2-物件","link":"#_2-物件","children":[]}],"git":{},"filePathRelative":"notes/ES6/17.md"}');export{e as data};

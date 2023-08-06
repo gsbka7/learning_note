@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-429572a2","path":"/notes/interview/02.html","title":"02 【 交易管理 】","lang":"zh-TW","frontmatter":{},"headers":[{"level":2,"title":"1. ACID","slug":"_1-acid","link":"#_1-acid","children":[]},{"level":2,"title":"2. 併發帶來的問題","slug":"_2-併發帶來的問題","link":"#_2-併發帶來的問題","children":[]}],"git":{},"filePathRelative":"notes/interview/02.md"}');export{e as data};

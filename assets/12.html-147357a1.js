@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-08f7c9fe","path":"/notes/vue2.3/12.html","title":"12 【 狀態管理】","lang":"zh-TW","frontmatter":{},"headers":[],"git":{},"filePathRelative":"notes/vue2.3/12.md"}');export{e as data};

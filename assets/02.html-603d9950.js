@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3d81b57a","path":"/notes/mysql/02.html","title":"02 【 資料庫 】","lang":"zh-TW","frontmatter":{},"headers":[{"level":2,"title":"1. 資料結構","slug":"_1-資料結構","link":"#_1-資料結構","children":[]},{"level":2,"title":"2. 表單","slug":"_2-表單","link":"#_2-表單","children":[]}],"git":{},"filePathRelative":"notes/mysql/02.md"}');export{e as data};

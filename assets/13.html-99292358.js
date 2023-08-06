@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c929dbee","path":"/notes/ES6/13.html","title":"13 【 高階函式定義 】","lang":"zh-TW","frontmatter":{},"headers":[],"git":{},"filePathRelative":"notes/ES6/13.md"}');export{t as data};

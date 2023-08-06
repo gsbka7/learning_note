@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-b4afb47a","path":"/notes/ES6/19.html","title":"19 【 剩餘參數 】","lang":"zh-TW","frontmatter":{},"headers":[{"level":2,"title":"和解構配合使用","slug":"和解構配合使用","link":"#和解構配合使用","children":[]}],"git":{},"filePathRelative":"notes/ES6/19.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-69ee8806","path":"/notes/ES6/05.html","title":"05 【 trim() 】","lang":"zh-TW","frontmatter":{},"headers":[],"git":{},"filePathRelative":"notes/ES6/05.md"}');export{t as data};

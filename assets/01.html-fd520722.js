@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-13ddaab6","path":"/notes/bug/01.html","title":"【 MySQL 】","lang":"zh-TW","frontmatter":{},"headers":[{"level":2,"title":"1. MySQL服務無法啟動","slug":"_1-mysql服務無法啟動","link":"#_1-mysql服務無法啟動","children":[]}],"git":{},"filePathRelative":"notes/bug/01.md"}');export{t as data};

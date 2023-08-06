@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-0f94d4d5","path":"/notes/php/06.html","title":"06 【 資料庫 】","lang":"zh-TW","frontmatter":{},"headers":[],"git":{},"filePathRelative":"notes/php/06.md"}');export{t as data};

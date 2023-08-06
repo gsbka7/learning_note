@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-09e0039c","path":"/notes/spring/02.html","title":"02 【 安裝 】","lang":"zh-TW","frontmatter":{},"headers":[{"level":2,"title":"1. 下載","slug":"_1-下載","link":"#_1-下載","children":[]},{"level":2,"title":"2. 安裝","slug":"_2-安裝","link":"#_2-安裝","children":[]}],"git":{},"filePathRelative":"notes/spring/02.md"}');export{e as data};

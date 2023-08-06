@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-cffd3e6a","path":"/notes/ES6/11.html","title":"11 【 閉包 】","lang":"zh-TW","frontmatter":{},"headers":[{"level":2,"title":"1. 定義","slug":"_1-定義","link":"#_1-定義","children":[]},{"level":2,"title":"2. 作用","slug":"_2-作用","link":"#_2-作用","children":[]}],"git":{},"filePathRelative":"notes/ES6/11.md"}');export{e as data};

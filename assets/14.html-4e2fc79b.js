@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c5c02ab0","path":"/notes/ES6/14.html","title":"14 【 遞迴 】","lang":"zh-TW","frontmatter":{},"headers":[{"level":3,"title":"範例","slug":"範例","link":"#範例","children":[]}],"git":{},"filePathRelative":"notes/ES6/14.md"}');export{t as data};

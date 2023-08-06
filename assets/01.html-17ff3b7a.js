@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-40e09a03","path":"/notes/interview/01.html","title":"01 【 MySQL 】","lang":"zh-TW","frontmatter":{},"headers":[{"level":2,"title":"1. 如何定位慢查詢","slug":"_1-如何定位慢查詢","link":"#_1-如何定位慢查詢","children":[]},{"level":2,"title":"2. 索引","slug":"_2-索引","link":"#_2-索引","children":[]}],"git":{},"filePathRelative":"notes/interview/01.md"}');export{e as data};
